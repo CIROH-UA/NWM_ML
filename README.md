@@ -1,4 +1,4 @@
-![NWM_ML](./Images/NWM_ML_Hydrological_Cycle.png)
+![NWM_ML](https://github.com/CIROH-UA/NWM_ML/blob/main/Images/NWM_ML_Hydrological_Cycle.png)
 
 # NWM-ML
 A Machine Learning extension processor coupling the NWM to water resources management tools in the western US.
@@ -22,7 +22,7 @@ The workflow leverages the power of the physically-based NWM v2.1 retrospective 
 
 **Seasonality Metrics**
 
-![Seasonality](./Images/seasonalityindex.JPG)
+![Seasonality](https://github.com/CIROH-UA/NWM_ML/blob/main/Images/seasonalityindex.JPG)
 
 The runoff in the basins follows a strong seasonal pattern with a noticeable yearly cycle, and this data needs to be communicated to the NN. The seasonality index provides this information by using two time series that, when combined, represent the 12-month cycle. 
 The oscillation of a sine curve depicts one series, while a cosine curve represents the other. Twelve pairs of values capture the annual cycle, each uniquely representing a month.
